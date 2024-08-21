@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886922241370",
+    "project_id": "rdp-to-do-list-83f35",
+    "storage_bucket": "rdp-to-do-list-83f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886922241370:android:d4d1b6de07bbd6ac18bf63",
+        "android_client_info": {
+          "package_name": "com.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLsAtsn78h6Sps38Sr8RiGTkc914thCR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
