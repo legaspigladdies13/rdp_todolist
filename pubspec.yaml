@@ -19,4 +19,12 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 flutter:
-  uses-material-design: true
+  uses-material-design: true 
+
+
+  assets:
+    - assets/
+  fonts:
+    - family: Caveat
+      fonts:
+        - asset: assets/Caveat-Regular.ttf
